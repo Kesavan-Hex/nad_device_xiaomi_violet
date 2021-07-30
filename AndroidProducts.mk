@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_violet.mk
+    $(LOCAL_DIR)/nad_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    revengeos_violet-userdebug \
-    revengeos_violet-user \
-    revengeos_violet-eng
+    nad_violet-userdebug \
+    nad_violet-user \
+    nad_violet-eng
